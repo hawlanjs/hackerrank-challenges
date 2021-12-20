@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+//hawlan
 int main()
 {
     int num, *arr,*arr2,i;
